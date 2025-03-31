@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -79,9 +79,9 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
+❖ єxᴧϻᴘʟє : /font Synax Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/SynaxBots) **
+❖ ϻᴧᴅє ʙʏ  ➠ [sʏɴᴀx-ϻυsɪᴄ](https://t.me/SynaxBots) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -398,7 +398,7 @@ class Helper(object):
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
 ❍ ᴄσηᴛᴧᴄᴛ - [ ʀɪsʜυ ](https://t.me/lll_SANATANI_lll)
-❍ ᴄσηᴛᴧᴄᴛ - [ Sᴧηᴧᴛᴧηɪ](https://t.me/SynaxBots)
+❍ ᴄσηᴛᴧᴄᴛ - [ sʏɴᴀx](https://t.me/SynaxBots)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -408,23 +408,16 @@ class Helper(object):
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
 
-╭⎋ [ʀɪsʜυ ϻυsɪᴄ](https://t.me/rishu_musicbot) : ᴧʟɪᴠє 
+╭⎋ [sʏɴᴀx ϻυsɪᴄ](https://t.me/synaxBots) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ʀᴧᴅʜє ϻυsɪᴄ](https://t.me/RADHE_MUSIC_ROBOT) : ᴧʟɪᴠє 
-╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
-
-╭⎋ [ᴧꝛᴧᴅʜʏᴧ ϻυsɪᴄ](https://t.me/ZEUS_MUSIC_ROBOT) : ᴧʟɪᴠє 
-╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
 ⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/SynaxBots)
 ───────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [ʀɪsʜυ](https://t.me/SynaxBots) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [sʏɴᴀx](https://t.me/SynaxBots) ˼
 ───────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,9 +437,9 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Ꝛɪsʜυ υᴘᴅᴧᴛє](https://t.me/SynaxBots)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Ꝛɪsʜυ sυᴘᴘσʀᴛ](https://t.me/Synaxchatgroup)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [Ꝛɪsʜυ sᴧηᴧᴛᴧηɪ](https://t.me/SynaxBots)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [sʏɴᴀx υᴘᴅᴧᴛє](https://t.me/SynaxBots)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [sʏɴᴀx sυᴘᴘσʀᴛ](https://t.me/Synaxchatgroup)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [sʏɴᴀx sᴧηᴧᴛᴧηɪ](https://t.me/SynaxBots)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!

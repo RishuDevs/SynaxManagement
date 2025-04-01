@@ -16,6 +16,8 @@ import random
 import logging
 import aiohttp
 import config
+from os import getenv
+from dotenv import load_dotenv
 
 #tessst
 API_URL = getenv("API_URL", "https://api.nexgenbots.in") #youtube song url
